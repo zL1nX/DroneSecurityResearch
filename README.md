@@ -1,2 +1,18 @@
-# DroneSecurityResearch
-Record and backup for my drone research program
+# 无人机安全研究
+
+> 本repo用于记录本人和Yuhang Ji在LoCCS展开的短暂的无人机安全研究内容，以供参考
+> 按照时间顺序记录并归档
+
+## 无人机安全调研 
+
+## 无人机采购
+
+## 学习他人成果
+
+## 真机测试与实验
+
+## DJI固件提取
+
+## DJI Root
+> 目前，由于DJI在无人机上设置的层层阻碍，导致实验难以进行。因此该研究计划将暂时中止，但如果有其他尝试机会或者有其他资源，也许会继续进行该项目。
+
